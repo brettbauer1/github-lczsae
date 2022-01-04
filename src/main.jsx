@@ -24,9 +24,9 @@ render(
         element={
           <main style={{ padding: "1rem" }}>
             <p>There's nothing here!</p>
-            </main>
+          </main>
         }
-      >/
+      >
       </Route>
     </Routes>
   </BrowserRouter>,
